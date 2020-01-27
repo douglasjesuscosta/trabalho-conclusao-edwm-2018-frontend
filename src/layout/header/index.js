@@ -8,7 +8,7 @@ const Header = () => {
     }
 
     return (
-        <Menu inverted>
+        <Menu>
             <Menu.Item
                 name='home'
                 active={false}
